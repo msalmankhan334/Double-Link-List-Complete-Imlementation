@@ -1,0 +1,24 @@
+The Imlementation Contain Four basic files:
+1-main.c
+2-functions.c
+3-funcheader.h
+4-Makefile
+
+=========================================
+#=>main.c contain instructions where the subroustines/functions called, that is defined in the ftns.c
+#=>functions.c contain functions/operations that will be performed on the link list, and can be called from the mina.c
+#=>funcheader.h is a header file, containing function prototypes, and node type structure
+=========================================
+
+You can run this program as:
+1-From linux Command line by runing "make", having working Directory the "Project"
+2-You can also run this from IDE like CodeBlocks, Dev++ or Clang etc.
+  a) Create an Empty Project, create thress files , main.c , ftns.c and ftnsheader.h copy the Code and past it repectively.
+     click on Build.
+
+All Operations regarding Double Link List is provided , Use them whatever is your Need.
+Thanks, Keep Learning Data Structures in C
+Contact me:msalmankhan334@mail.com
+
+Note: This file is not part of Project code.
+
